@@ -1,0 +1,29 @@
+div {
+
+width: 40px;
+
+height: 65px;
+
+line-height: 65px;
+
+border: 3px solid rgb(128, 128, 128);
+
+padding: 20px;
+
+border-radius: 4px;
+
+float: bottom;
+
+font-size: 38px;
+
+text-align:center ;
+
+font-family: helvetica;
+
+margin-right: 4px;
+
+margin-top: 16px;
+
+color: rgb(128, 128, 128);
+
+}
